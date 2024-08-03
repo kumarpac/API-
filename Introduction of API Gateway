@@ -1,1 +1,6 @@
+API Gateway is a front door also called main entry point, that sits in between client and the backend services.
+  Embracing gateway enables in Hiding complexities of the services in the backend.
+  The Gateway handles routing request to the appropriate server.
+  Aggregating data from different services
+  Applying policies constantly across all services.
 
