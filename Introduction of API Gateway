@@ -11,5 +11,7 @@ Main Roles and Responsibilities of API Gateway
     - Trafic control: Load balancing, rate limiting,caching
     - Observability: Monitoring, logging, tracing
 
+ 
+API Gateway handles cross-cutting concerns and simplifies building individual services to focus on core business capabilities.
 
 
