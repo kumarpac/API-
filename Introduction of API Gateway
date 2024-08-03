@@ -4,3 +4,12 @@ API Gateway is a front door also called main entry point, that sits in between c
   Aggregating data from different services
   Applying policies constantly across all services.
 
+Main Roles and Responsibilities of API Gateway
+    - Routing: Forward requests to the server using URL,content and business rules.
+    - Security: applies Authorization/authentication, access controls and Threat prevention
+    - Orchestration- Service discovery, handling failure using retries, circuit breaker and scheduling
+    - Trafic control: Load balancing, rate limiting,caching
+    - Observability: Monitoring, logging, tracing
+
+
+
